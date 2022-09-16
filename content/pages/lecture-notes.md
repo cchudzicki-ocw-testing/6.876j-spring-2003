@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a complete set of scribe notes for the course.
+  Scribe notes are latex transcriptions by students as part of class work. Scribe
+  notes are used with permission of the students named.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
